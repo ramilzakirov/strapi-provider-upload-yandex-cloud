@@ -1,5 +1,5 @@
 {
-  "name": "strapi-provider-upload-yandex-cloud",
+  "name": "@ramilzakirov/strapi-provider-upload-yandex-cloud",
   "version": "2.0.5",
   "description": "Yandex Cloud provider for Strapi upload plugin",
   "homepage": "http://strapi.io",
